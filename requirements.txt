@@ -1,2 +1,2 @@
-python-semantic-release==7.31.4
+python-semantic-release==10.6.2
 compliance-trestle
